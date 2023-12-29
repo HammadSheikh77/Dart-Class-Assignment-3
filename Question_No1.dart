@@ -6,6 +6,7 @@ void main() {
 
   var table = 7;
   for (var i = 1; i <= 10; i++) {
+    //Using FOR LOOP
     print("$table X $i = ${table * i}");
   }
 }
